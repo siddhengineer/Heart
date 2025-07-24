@@ -1,0 +1,10 @@
+outputs/
+datasets/
+ctenn_env/
+cnn_model_paths/
+classification-of-heart-sound-recordings-the-physionet-computing-in-cardiology-challenge-2016-1.0.0/
+.ipynb_checkpoints/
+__pycache__/
+Kaggle-PASCAL/
+temp_auto_push.bat
+temp_interactive_push.bat
